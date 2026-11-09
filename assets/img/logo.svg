@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80" fill="none">
+  <!-- Monogram / Emblem -->
+  <g transform="translate(10, 10)">
+    <circle cx="30" cy="30" r="28" stroke="#B3644C" stroke-width="1.5" fill="#FAF6F0"/>
+    <path d="M30 14C30 14 34 25 45 28C34 32 30 43 30 43C30 43 26 32 15 28C26 25 30 14 30 14Z" fill="#B3644C"/>
+    <circle cx="30" cy="28.5" r="3" fill="#D8AB7A"/>
+  </g>
+  <!-- Text Brand -->
+  <text x="82" y="44" font-family="'Cormorant Garamond', 'Playfair Display', 'Times New Roman', serif" font-size="32" font-weight="600" letter-spacing="4" fill="#2A2624">LUMINA</text>
+  <text x="83" y="61" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="9" font-weight="600" letter-spacing="2.8" fill="#B3644C">ESTÉTICA FACIAL &amp; CORPORAL</text>
+  <text x="83" y="73" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="7.5" font-weight="500" letter-spacing="1.5" fill="#887E78">PORTO ALEGRE • MOINHOS DE VENTO</text>
+</svg>
